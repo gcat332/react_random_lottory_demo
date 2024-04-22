@@ -1,1 +1,1 @@
-#This is part of my practice programing skill to learning React, Type-Script and NodeJS.
+This is part of my practice programing skill to learning React, Type-Script and NodeJS.
